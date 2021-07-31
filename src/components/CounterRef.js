@@ -8,6 +8,7 @@ function CounterRef() {
     console.log(count.current);
   }
 
+  
   return (
     <div>
       <h1>CounterRef</h1>
